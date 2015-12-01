@@ -28,3 +28,5 @@ assert.equal(response.length, 3);
 ~~~
 
 %%%
+
+<a href='https://learn.co/lessons/awesome-repl' data-visibility='hidden'>Learn.co resource</a>
